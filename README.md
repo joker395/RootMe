@@ -69,22 +69,13 @@ Tool created By Ajay
 
 Contact me :
 
-        Instagram Id    :- https://www.instagram.com/tamilhackz_/
+         Instagram Id    :- https://www.instagram.com/tamilhackz_/
+        
+              
+          Telegram group  :- Tamilhackz
         
         
-        
-        
-        
-         Telegram group  :- Tamilhackz
-        
-        
-        
-        
-        
-        Twitter         :- TamilHackz
-        
-        
-        
+         Twitter         :- TamilHackz
         
 
 
