@@ -76,13 +76,17 @@ fi
 echo
 echo "Root credits to Anlinux"
 echo "Tool created by Ajay"
+echo "Tested by Raven" 
 echo
-echo
-echo "contact me on :"
+echo "contact us on :"
 echo "Telegram  : Tamilhackz ( public group )"
-echo "Instagram : ajs_walker "
+echo "Instagram : ajs_walker or mr.anonz_walker"
 echo "Twitter   : Ajs walker "
 echo
 echo
 echo "Youtube : Tamilhackz "
 echo "https://www.youtube.com/channel/UC4BpyO4AIcynKhBj4PLnvsA "
+echo "Youtube : mr.Anonz "
+echo "https://www.youtube.com/channel/UC8t1ru-TzlqrIe-GzCkTvkw/featured"
+
+echo "Happy hacking  :)"
