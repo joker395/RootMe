@@ -80,8 +80,8 @@ echo
 echo
 echo "contact me on :"
 echo "Telegram  : Tamilhackz ( public group )"
-echo "Instagram : tamilhackz_ "
-echo "Twitter   : TamilHackz "
+echo "Instagram : ajs_walker "
+echo "Twitter   : Ajs walker "
 echo
 echo
 echo "Youtube : Tamilhackz "
