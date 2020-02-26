@@ -1,9 +1,9 @@
 # RootMe
                                     
-This tool will root your termux without superuser no root required. In case of any hactivity i am not responsible for your hactivity         " Don't Be Evil " Don't Act Like A Smart
+This tool will root your termux without superuser no rooting your phone. In case of any illeagel activity i am not responsible for your illeagel activity " Don't Be Evil " Don't Act Like A Smart
 
-its just a simple script which will allow you to become root user without rooting your phone. To become root user install this tool and restart your terminal to become root user. Every time you enter in to termux it will automatically grant root permission to your termux
-no need to manually become root which is autoamted to become root
+Its just a simple script which will allow you to become root user without rooting your phone. To become root user install this tool and restart your termux or type rootme to become root user based on your installation.
+No need to manually become root which is automated to become root
 
 Boot2Root
 
@@ -61,11 +61,16 @@ usage
 use this tool for educational purpose only stay leagel
 
 Note:
-It's not a absolute root it is a mini kali linux os running virtually on termux
+It's not a absolute root it is a mini kali linux os running virtually on termux and its a isolated eniroinment from your termux so you can trust this tool for installation. You can also run any tools that dosn't steal your data. Which is an safest method of rooting termux.
+
 Root credits to Anlinux 
 
 Tool created By Ajay
 
+Donate us:-
+
+Gpay    = ajaypothi123@okaxis
+phonepe = ajswalker@ybl
 
 Contact me :
 
