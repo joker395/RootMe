@@ -17,20 +17,22 @@ echo " |____/ \___|   |  __\ \ / / | |      "
 echo "                | |___\ V /| | |      "
 echo "                |______\_/ |_|_|      "
 echo                                                        
-read -p "Use this tool for educational purpose only press enter to continue " Enter
+  read -p "Use this tool for educational purpose only press enter to continue " Enter
 echo
 clear
 echo
-echo "   1. Boot2Root    "
-echo "   2. JustRoot     "
+echo "   [1*] Boot2Root    "
+echo "   [2*] JustRoot     "
 echo
-echo "Does it hard to choose just watch this video Before use"
+    echo "Does it hard to choose just watch this video Before use"
 echo "Tamil   https://youtu.be/s7tm_cDgQQg   "
 echo "English   ( comming soon )            "
+echo "Hindi "
 echo     
-echo "Version 1.1"
 
-read -p "Enter your choice : " choice
+                        echo "Version 1.1"
+
+           read -p "Enter your choice : " choice
 apt update && apt upgrade -y
 apt install wget -y
 apt install openssl-tool -y
@@ -47,21 +49,21 @@ wget  https://raw.githubusercontent.com/EXALAB/AnLinux-Resources/master/Scripts/
 bash kali.sh
 echo $Enter
 clear    
-neofetch
+          neofetch
 echo
-if [ "$choice" = "1" ];
-then
-echo " bash /data/data/com.termux/files/usr/etc/Root/start-kali.sh " >> /data/data/com.termux/files/usr/etc/bash.bashrc
-echo
-echo "Restart your termux to become root user "
-elif [ "$choice" = "2" ];
-then
-echo " alias rootme='bash /data/data/com.termux/files/usr/etc/Root/start-kali.sh' " >> /data/data/com.termux/files/usr/etc/bash.bashrc
-cd /data/data/com.termux/files/usr/etc
-source bash.bashrc
-echo 
-echo "Restart your termux and type  rootme  from anywhere of your termux to become root user "
-else
+          if [ "$choice" = "1" ];
+          then
+          echo " bash /data/data/com.termux/files/usr/etc/Root/start-kali.sh " >> /data/data/com.termux/files/usr/etc/bash.bashrc
+          echo
+          echo "Restart your termux to become root user "
+          elif [ "$choice" = "2" ];
+          then
+          echo " alias rootme='bash /data/data/com.termux/files/usr/etc/Root/start-kali.sh' " >> /data/data/com.termux/files/usr/etc/bash.bashrc
+          cd /data/data/com.termux/files/usr/etc
+          source bash.bashrc
+          echo 
+          echo "Restart your termux and type  rootme  from anywhere of your termux to become root user "
+          else
 echo                                             
 echo "   ___   ___  _ __  ___  "
 echo "  / _ \ / _ \| '_ \/ __| "
@@ -71,22 +73,22 @@ echo "             | |         "
 echo "             |_|         "
 echo  
 echo "unexpected error occured choose right one to install or tryagain "
-exit
-fi
+          exit
+          fi
+          echo
+          echo "Root credits to Anlinux"
+          echo "Tool created by Ajay"
+          echo "Tested by Raven" 
+          echo
+          echo "contact us on :"
+          echo "Telegram  : Tamilhackz ( public group )"
+          echo "Instagram : ajs_walker or mr.anonz_walker"
+          echo "Twitter   : Ajs walker "
 echo
-echo "Root credits to Anlinux"
-echo "Tool created by Ajay"
-echo "Tested by Raven" 
 echo
-echo "contact us on :"
-echo "Telegram  : Tamilhackz ( public group )"
-echo "Instagram : ajs_walker or mr.anonz_walker"
-echo "Twitter   : Ajs walker "
-echo
-echo
-echo "Youtube : Tamilhackz "
-echo "https://www.youtube.com/channel/UC4BpyO4AIcynKhBj4PLnvsA "
-echo "Youtube : mr.Anonz "
-echo "https://www.youtube.com/channel/UC8t1ru-TzlqrIe-GzCkTvkw/featured"
+          echo "Youtube : Tamilhackz "
+          echo "https://www.youtube.com/channel/UC4BpyO4AIcynKhBj4PLnvsA "
+          echo "Youtube : mr.Anonz "
+          echo "https://www.youtube.com/channel/UC8t1ru-TzlqrIe-GzCkTvkw/featured"
 
-echo "Happy hacking  :)"
+          echo "Happy hacking  :-)"
