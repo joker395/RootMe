@@ -82,8 +82,8 @@ echo "unexpected error occured choose right one to install or tryagain "
           echo
           echo "contact us on :"
           echo "Telegram  : Tamilhackz ( public group )"
-          echo "Instagram : ajs_walker or mr.anonz_walker"
-          echo "Twitter   : Ajs walker "
+          echo "Instagram : https://www.instagram.com/0xajay/ "
+          echo "Twitter   : @tamilhackz "
 echo
 echo
           echo "Youtube : Tamilhackz "
