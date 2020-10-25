@@ -65,26 +65,4 @@ It's not a absolute root it is a mini kali linux os running virtually on termux 
 
 Root credits to Anlinux 
 
-Tool created By Ajay
-
-Donate us:-
-
-Gpay    = ajaypothi123@okaxis
-phonepe = ajswalker@ybl
-
-Contact me :
-
-         Instagram Id    :- https://www.instagram.com/ajs_walker/
-        
-              
-          Telegram group  :- Tamilhackz
-        
-        
-         Twitter         :- Ajs walker
-        
-
-
-        youtube :- Tamil Hackz
-        https://www.youtube.com/channel/UC4BpyO4AIcynKhBj4PLnvsA
-
-
+Tool created By 0xAnnLynn
