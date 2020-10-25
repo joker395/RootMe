@@ -24,11 +24,7 @@ echo
 echo "   [1*] Boot2Root    "
 echo "   [2*] JustRoot     "
 echo
-    echo "Does it hard to choose just watch this video Before use"
-echo "Tamil   https://youtu.be/s7tm_cDgQQg   "
-echo "English   ( comming soon )            "
-echo "Hindi "
-echo     
+     
 
                         echo "Version 1.1"
 
@@ -77,18 +73,16 @@ echo "unexpected error occured choose right one to install or tryagain "
           fi
           echo
           echo "Root credits to Anlinux"
-          echo "Tool created by Ajay"
-          echo "Tested by Raven" 
+          echo "Tool created by 0xAnnLynn "
+          
           echo
-          echo "contact us on :"
-          echo "Telegram  : Tamilhackz ( public group )"
-          echo "Instagram : https://www.instagram.com/0xajay/ "
+          echo "contact me on :"
+          echo "Telegram  : @TamilHackzAdmin "
+          echo "Instagram : @0xajay.42 "
           echo "Twitter   : @tamilhackz "
 echo
 echo
           echo "Youtube : Tamilhackz "
           echo "https://www.youtube.com/channel/UC4BpyO4AIcynKhBj4PLnvsA "
-          echo "Youtube : mr.Anonz "
-          echo "https://www.youtube.com/channel/UC8t1ru-TzlqrIe-GzCkTvkw/featured"
-
+          
           echo "Happy hacking  :-)"
